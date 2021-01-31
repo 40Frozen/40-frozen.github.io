@@ -1,0 +1,280 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML>
+
+<HEAD>
+<TITLE>40-Frozen.de.vu - Downloads</TITLE>
+<link href="style.css" rel="stylesheet" type="text/css">
+
+<!--
+<script type="text/javascript">
+<!--
+Normal1 = new Image();
+Normal1.src = "startseite.jpg";     
+Highlight1 = new Image();
+Highlight1.src = "startseite2.jpg";
+Normal2 = new Image();
+Normal2.src = "bandmitglieder.jpg";     
+Highlight2 = new Image();
+Highlight2.src = "bandmitglieder2.jpg"; 
+Normal3 = new Image();
+Normal3.src = "discografie.jpg";     
+Highlight3 = new Image();
+Highlight3.src = "discografie2.jpg"; 
+Normal4 = new Image();
+Normal4.src = "interview.jpg";     
+Highlight4 = new Image();
+Highlight4.src = "interview2.jpg"; 
+Normal5 = new Image();
+Normal5.src = "photos.jpg";     
+Highlight5 = new Image();
+Highlight5.src = "photos2.jpg"; 
+Normal6 = new Image();
+Normal6.src = "downloads.jpg";     
+Highlight6 = new Image();
+Highlight6.src = "downloads2.jpg";
+Normal7 = new Image();
+Normal7.src = "texte.jpg";     
+Highlight7 = new Image();
+Highlight7.src = "texte2.jpg";
+
+Normal8 = new Image();
+Normal8.src = "gaestebuch.jpg";     
+Highlight8 = new Image();
+Highlight8.src = "gaestebuch2.jpg";
+Normal9 = new Image();
+Normal9.src = "impressum.jpg";     
+Highlight9 = new Image();
+Highlight9.src = "impressum2.jpg";
+Normal10 = new Image();
+Normal10.src = "das quiz.jpg";     
+Highlight10 = new Image();
+Highlight10.src = "das quiz2.jpg";
+function Bildwechsel(Bildnr,Bildobjekt) {
+ window.document.images[Bildnr].src = Bildobjekt.src;
+}
+//-->
+</script>
+-->
+
+<meta http-equiv="content-type" content="text/html; iso-8859-1">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta http-equiv="content-language" content="Deutsch">
+<meta name="description" content="Das is die Seite, auf die Rapfans gewartet haben. Kostenloser Download von 40-Frozen Liedern, mit Sliff, Gadd Ridd und B42">
+<meta name="abstract" content="Das is die Seite, auf die Rapfans gewartet haben. Kostenloser Download von 40-Frozen Liedern, mit Sliff, Gadd Ridd und B42">
+<meta name="keywords" content="Rap, 40 Frozen, 40-Frozen, Sliff, Gadd Ridd,B42">
+<meta name="author" content="Benjamin Scharf">
+<meta name="publisher" content="Benjamin Scharf">
+
+<meta name="copyright" content="Benjamin Scharf">
+<meta name="audience" content="Alle">
+<meta name="page-type" content="Sound">
+<meta name="page-topic" content="Musik & MP3">
+<meta name="revisit-after" content="7 days">
+
+</HEAD>
+
+<body bgcolor=000000>
+<table border=0 align=center  cellpadding=0 cellspacing=0 bgcolor=000000 >
+  <tr> 
+    <td style="background-image:url(oben.gif)" colspan=3 height=200>&nbsp;</td>
+  </tr>
+  <tr>
+    <td class=platzhalter height=20></td>
+  </tr>
+  <tr> 
+    <td width="175" height=10  class="platzhalter"></td>
+    <td width="500" class=platzhalter ></td>
+    <td width="100" bgcolor=FFFFFF class=platzhalter></td>
+  </tr>
+    <td valign=top> 
+<table width="180" height="314" border=0 align=center cellpadding=0 cellspacing=0 bgcolor=000000>
+      <tr> 
+        <td height="32" valign=top background=x.jpg>&nbsp;</td>
+      </tr>
+      <tr align=center> 
+        <td width=180 height="42" align=center><a href="index.htm"
+   onMouseOver="Bildwechsel(0,Highlight1)"
+   onMouseOut="Bildwechsel(0,Normal1)"><img src="startseite.jpg" alt="startseite"
+   width="160" height=50 border="0"></a></td>
+      </tr>
+      <tr> 
+        <td width=180 height="47" align=center> <a href="bandmitglieder.htm"
+   onMouseOver="Bildwechsel(1,Highlight2)"
+   onMouseOut="Bildwechsel(1,Normal2)"><img src="bandmitglieder.jpg"
+   width="160"  height="50" border="0" alt="bandmitglieder"></a></td>
+      </tr>
+      <tr> 
+        <td width=180 height="42" align=center> <a href="discografie.htm"
+   onMouseOver="Bildwechsel(2,Highlight3)"
+   onMouseOut="Bildwechsel(2,Normal3)"><img src="discografie.jpg"
+   width="160"  height="50" border="0" alt="discografie"></a></td>
+      </tr>
+      <tr> 
+        <td width=180 height="42" align=center><a href="downloads.htm"
+   onMouseOver="Bildwechsel(3,Highlight6)"
+   onMouseOut="Bildwechsel(3,Normal6)"><img src="downloads.jpg" alt="downloads"
+   width="160"  height="50" border="0"></a></td>
+      </tr>
+      <tr> 
+        <td width=180 height="42" align=center><a href="texte.htm"
+   onMouseOver="Bildwechsel(4,Highlight7)"
+   onMouseOut="Bildwechsel(4,Normal7)"><img src="texte.jpg" alt="texte"
+   width="160"  height="50" border="0"></a></td>
+      </tr>
+      <tr> 
+        <td height="32" background=x.jpg>&nbsp;</td>
+      </tr>
+    </table></td>
+  <td valign=top width=500> <table align=center cellpadding=0 cellspacing=0 width=500 border=1 bordercolor=999999  rules="none">
+        <tr> 
+          <td height="26" align=center class=ueber>Die Download-Sektion</td>
+        </tr>
+        <tr> 
+          <td class=story1><div align=justify>Inzwischen sind es schon 20 Downloads!<br>
+              Am besten mit rechter Maustaste anklicken und auf &quot;Ziel speichern 
+              unter&quot; klicken. Das ganze kommt im 128 kbit - MP3 Format. <br>
+              In n&auml;chster Zeit solltet ihr aber unbedingt wieder vorbeischauen, 
+              da es sicher neues Material geben wird. Ansonsten fordert am besten 
+              im G&auml;stebuch oder per Mail neues Zeuch! &nbsp;<br>
+              F&uuml;r mehr Infos schaut unter <a href="discografie.htm">Discografie</a>...</div>
+<p>&quot;Die Bombe&quot; (2 Min 54 Sek, 3.991 KB, 01.12.2011)<br>
+              <br>
+              &nbsp;<a href="Sliff - Die Bombe.mp3" class="content4copy">Sliff - Die Bombe.mp3</a></p>
+
+<p>&quot;Das bin ich&quot; (2 Min 26 Sek, 3.450 KB, 01.12.2011)<br>
+              <br>
+              &nbsp;<a href="40 Frozen - Gebrochene Herzen.mp3" class="content4copy">Sliff - Das bin ich.mp3</a></p>            
+
+
+<p>&quot;Was ist nur los&quot; (2 Min 52Sek, 2.690 KB, 01.10.2007)<br>
+              <br>
+              &nbsp;<a href="40 Frozen - Was ist nur los.mp3" class="content4copy">40 
+              Frozen - Was ist nur los.mp3</a></p>
+            <p>&quot;Gebrochene Herzen&quot; (4 Min 29 Sek, 4.211 KB, 27.03.2007)<br>
+              <br>
+              &nbsp;<a href="40 Frozen - Gebrochene Herzen.mp3" class="content4copy">40 
+              Frozen - Gebrochene Herzen.mp3</a></p>
+			  
+            <p>&quot;Intro (2 Jahre lang)&quot; (2 Min 50 Sek, 2.688 KB, 27.03.2007)<br>
+              <br>
+              &nbsp;<a href="40 Frozen - Intro (2 Jahre lang).mp3" class="content4copy">40 Frozen - Intro (2 Jahre lang).mp3</a></p>
+			<p>&quot;2 Versager&quot; (3 Min 28 Sek, 3.259 KB, 04.03.2007)<br>
+              <br>
+              &nbsp;<a href="40 Frozen - 2 Versager.mp3" class="content4copy">40 Frozen - 2 Versager.mp3</a></p>
+            <p>&quot;Die dunkle Seite Part 2&quot; (5 Min 20 Sek, 5.003 KB, 01.01.2007)<br>
+              <br>
+              &nbsp;<a href="B42 - Die dunkle Seite Part 2.mp3" class="content4copy">B42 
+              - Die dunkle Seite Part 2.mp3</a></p>
+            <p>&quot;Irren ist menschlich&quot; (4 Min 01 Sek, 3.812 KB, 10.09.2006)<br>
+              <br>
+              &nbsp;<a href="Sliff - Irren ist menschlich.mp3" class="content4copy">Sliff 
+              - Irren ist menschlich.mp3</a></p>
+            <p>&quot;Du denkst du w&auml;rst der geilste Rapper&quot; (3 Min, 
+              2.825 KB, 10.03.2006)<br>
+              <br>
+              &nbsp;<a href="B42 feat. ... - Du denkst du waerst der geilste Rapper.mp3" class="content4copy">B42 
+              feat. ... - Du denkst du waerst der geilste Rapper.mp3</a> </p>
+            <p>&quot;G&auml;nsebl&uuml;mchen in der Sahara&quot; (5 Min 41 Sek, 
+              5.341 KB, 20.12.2005)<br>
+              <br>
+              &nbsp;<a href="B42 meets fly - Gaensebluemchen in der Sahara.mp3" class="content4copy">B42 
+              meets fly - G&auml;nsebl&uuml;mchen in der Sahara.mp3</a> </p>
+            <p>&quot;Und der Terror beginnt&quot; (5 Min 13 Sek, 4.906 KB, 01.10.2005)<br>
+              <br>
+              &nbsp;<a href="40 Frozen - Und der Terror beginnt.mp3" class="content4Copy">40 
+              Frozen - Und der Terror beginnt.mp3</a></p>
+            <p>&quot;The Chronic of Dark B&quot; (3 Min 44 Sek, 3.515 KB, 08.09.2005)<br>
+              <br>
+              &nbsp;<a href="Sliff & Gadd Ridd - The Chronic of Dark B.mp3" class="content4Copy">Sliff 
+              &amp; Gadd Ridd - The Chronic of Dark B.mp3</a></p>
+            <p>&quot;Die dunkle Seite&quot; (4 Min 43 Sek, 4.425 KB, 06.06.2005)<br>
+              <br>
+              &nbsp;<a href="B42 - Die dunkle Seite.mp3" class="content4Copy">B42 
+              - Die dunkle Seite.mp3</a><br>
+              <br>
+              &quot;Komm zur&uuml;ck&quot; (4 Min 36 Sek, 4.323 KB, 20.05.2005) 
+              <br>
+              <br>
+              &nbsp;<a href="40%20Frozen%20-%20Komm%20zurueck.mp3" class="content4Copy">40 
+              Frozen - Komm zur&uuml;ck.mp3 <br>
+              <br>
+              </a>&quot;World Battle II&quot; (5 Min 25 Sek 5.087 KB; 1 Min 9 
+              Sek 1.091 KB, 13.04.2005)<br>
+              <br>
+              &nbsp;<a href="40 Frozen presents World Battle II Intro.mp3" class="content4Copy">40 
+              Frozen presents World Battle II Intro.mp3 <br>
+              <br>
+              </a> &nbsp;<a href="40 Frozen presents World Battle II.mp3" class="content4Copy">40 
+              Frozen presents World Battle II.mp3 <br>
+              <br>
+              </a> &quot;B42 Sliff &amp; Gadd Ridd&quot; (4 Min 53 Sek, 4.585 
+              KB, 14.02.2005)<br>
+              <br>
+              &nbsp;<a href="40 Frozen - B42 Sliff & Gadd Ridd.mp3" class="content4Copy">40 
+              Frozen - B42 Sliff &amp; Gadd Ridd.mp3</a><br>
+              <br>
+              &quot;Es ist kein Wunder&quot; (6 Min 10 Sek, 5.793 KB, 28.01.2005)<br>
+              <br>
+              &nbsp;<a href="40%20Frozen%20-%20Es%20ist%20kein%20Wunder.mp3" class="content4Copy">40 
+              Frozen - Es ist kein Wunder.mp3</a><br>
+              <br>
+              &quot;Weihnachtszeuch&quot; (6 Min 33 Sek, 6.148 KB, 30.12.2005)<br>
+              <br>
+              &nbsp;<a href="40%20Frozen%20-%20Weihnachtszeuch.mp3" class="content4Copy">40 
+              Frozen - Weihnachtszeuch.mp3</a> <br>
+              <br>
+              &quot;Homies at Home&quot; (4 Min 53 Sek, 4.580 KB, 28.11.2005)<br>
+              <br>
+              &nbsp;<a href=40%20Frozen%20-%20Homies%20at%20Home.mp3 class="content4copy">40 
+              Frozen - Homies at Home.mp3</a> </p>
+            </td>
+        </tr>
+        <tr> 
+          <td height="17" class="bea" valign=bottom> <div align=right >bearbeitet 
+              am: 01.12.2011&nbsp</div></td>
+        </tr>
+      </table></td>
+  <td valign=top><table border=0 align=center cellpadding=0 cellspacing=0 bgcolor=000000 valign=bottom>
+      <tr> 
+        <td class="trennlinie" ></td>
+      </tr>
+      <tr> 
+        <td width=172 height="32"valign=top background=x1.jpg>&nbsp;</td>
+      <tr> 
+        <td class="trennlinie" ></td>
+      </tr>
+      <tr><td width=180 height="47"> <a href="quiz.htm"
+   onMouseOver="Bildwechsel(5,Highlight10)"
+   onMouseOut="Bildwechsel(5,Normal10)"><img src="das quiz.jpg"
+   width="160"  height="50" border="0" alt="interview"></a></td>
+        </tr>
+		<tr><td width=180 height="47"> <a href="was.htm"
+   onMouseOver="Bildwechsel(6,Highlight4)"
+   onMouseOut="Bildwechsel(6,Normal4)"><img src="interview.jpg"
+   width="160"  height="50" border="0" alt="interview"></a></td>
+        </tr>
+        <tr> 
+          <td width=180 height="42"> <a href="photos.htm"
+   onMouseOver="Bildwechsel(7,Highlight5)"
+   onMouseOut="Bildwechsel(7,Normal5)"><img src="photos.jpg"
+   width="160"  height="50" border="0" alt="photos"></a></td>
+        </tr>
+        <td width=180 height="42"> <a href="http://201885.multiguestbook.com"
+   onMouseOver="Bildwechsel(8,Highlight8)"
+   onMouseOut="Bildwechsel(8,Normal8)"><img src="gaestebuch.jpg"
+   width="160"  height="50" border="0" alt="gaestebuch"></a></td>
+        </tr>
+		<tr> 
+          <td width=180 height="42"> <a href="autor.htm"
+   onMouseOver="Bildwechsel(9,Highlight9)"
+   onMouseOut="Bildwechsel(9,Normal9)"><img src="impressum.jpg"
+   width="160"  height="50" border="0" alt="impressum"></a></td>
+        </tr>
+	      <tr> 
+        <td width=172 height="32"valign=top background=x1.jpg>&nbsp;</td>
+      <tr> </table><p>&nbsp;</p></td>
+  </tr>
+</table>
+</BODY>
+</HTML>

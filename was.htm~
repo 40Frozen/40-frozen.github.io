@@ -1,0 +1,565 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML>
+
+<HEAD>
+<TITLE>40-Frozen.de.vu - Interview</TITLE>
+<link href="style.css" rel="stylesheet" type="text/css">
+
+<!--
+<script type="text/javascript">
+<!--
+Normal1 = new Image();
+Normal1.src = "startseite.jpg";     
+Highlight1 = new Image();
+Highlight1.src = "startseite2.jpg";
+Normal2 = new Image();
+Normal2.src = "bandmitglieder.jpg";     
+Highlight2 = new Image();
+Highlight2.src = "bandmitglieder2.jpg"; 
+Normal3 = new Image();
+Normal3.src = "discografie.jpg";     
+Highlight3 = new Image();
+Highlight3.src = "discografie2.jpg"; 
+Normal4 = new Image();
+Normal4.src = "interview.jpg";     
+Highlight4 = new Image();
+Highlight4.src = "interview2.jpg"; 
+Normal5 = new Image();
+Normal5.src = "photos.jpg";     
+Highlight5 = new Image();
+Highlight5.src = "photos2.jpg"; 
+Normal6 = new Image();
+Normal6.src = "downloads.jpg";     
+Highlight6 = new Image();
+Highlight6.src = "downloads2.jpg";
+Normal7 = new Image();
+Normal7.src = "texte.jpg";     
+Highlight7 = new Image();
+Highlight7.src = "texte2.jpg";
+
+Normal8 = new Image();
+Normal8.src = "gaestebuch.jpg";     
+Highlight8 = new Image();
+Highlight8.src = "gaestebuch2.jpg";
+Normal9 = new Image();
+Normal9.src = "impressum.jpg";     
+Highlight9 = new Image();
+Highlight9.src = "impressum2.jpg";
+Normal10 = new Image();
+Normal10.src = "das quiz.jpg";     
+Highlight10 = new Image();
+Highlight10.src = "das quiz2.jpg";
+function Bildwechsel(Bildnr,Bildobjekt) {
+ window.document.images[Bildnr].src = Bildobjekt.src;
+}
+//-->
+</script>
+-->
+
+<meta http-equiv="content-type" content="text/html; iso-8859-1">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta http-equiv="content-language" content="Deutsch">
+<meta name="description" content="Das is die Seite, auf die Rapfans gewartet haben. Kostenloser Download von 40-Frozen Liedern, mit Sliff, Gadd Ridd und B42">
+<meta name="abstract" content="Das is die Seite, auf die Rapfans gewartet haben. Kostenloser Download von 40-Frozen Liedern, mit Sliff, Gadd Ridd und B42">
+<meta name="keywords" content="Rap, 40 Frozen, 40-Frozen, Sliff, Gadd Ridd,B42">
+<meta name="author" content="Benjamin Scharf">
+<meta name="publisher" content="Benjamin Scharf">
+
+<meta name="copyright" content="Benjamin Scharf">
+<meta name="audience" content="Alle">
+<meta name="page-type" content="Sound">
+<meta name="page-topic" content="Musik & MP3">
+<meta name="revisit-after" content="7 days">
+
+</HEAD>
+
+<body bgcolor=000000>
+<table border=0 align=center  cellpadding=0 cellspacing=0 bgcolor=000000 >
+  <tr> 
+    <td style="background-image:url(oben.gif)" colspan=3 height=200>&nbsp;</td>
+  </tr>
+  <tr>
+    <td class=platzhalter height=20></td>
+  </tr>
+  <tr> 
+    <td width="175" height=11  class="platzhalter"></td>
+    <td width="500" class=platzhalter ></td>
+    <td width="100" bgcolor=FFFFFF class=platzhalter></td>
+  </tr>
+    <td valign=top> 
+<table width="180" height="314" border=0 align=center cellpadding=0 cellspacing=0 bgcolor=000000>
+      <tr> 
+        <td height="32" valign=top background=x.jpg>&nbsp;</td>
+      </tr>
+      <tr align=center> 
+        <td width=180 height="42" align=center><a href="index.htm"
+   onMouseOver="Bildwechsel(0,Highlight1)"
+   onMouseOut="Bildwechsel(0,Normal1)"><img src="startseite.jpg" alt="startseite"
+   width="160" height=50 border="0"></a></td>
+      </tr>
+      <tr> 
+        <td width=180 height="47" align=center> <a href="bandmitglieder.htm"
+   onMouseOver="Bildwechsel(1,Highlight2)"
+   onMouseOut="Bildwechsel(1,Normal2)"><img src="bandmitglieder.jpg"
+   width="160"  height="50" border="0" alt="bandmitglieder"></a></td>
+      </tr>
+      <tr> 
+        <td width=180 height="42" align=center> <a href="discografie.htm"
+   onMouseOver="Bildwechsel(2,Highlight3)"
+   onMouseOut="Bildwechsel(2,Normal3)"><img src="discografie.jpg"
+   width="160"  height="50" border="0" alt="discografie"></a></td>
+      </tr>
+      <tr> 
+        <td width=180 height="42" align=center><a href="downloads.htm"
+   onMouseOver="Bildwechsel(3,Highlight6)"
+   onMouseOut="Bildwechsel(3,Normal6)"><img src="downloads.jpg" alt="downloads"
+   width="160"  height="50" border="0"></a></td>
+      </tr>
+      <tr> 
+        <td width=180 height="42" align=center><a href="texte.htm"
+   onMouseOver="Bildwechsel(4,Highlight7)"
+   onMouseOut="Bildwechsel(4,Normal7)"><img src="texte.jpg" alt="texte"
+   width="160"  height="50" border="0"></a></td>
+      </tr>
+      <tr> 
+        <td height="32" background=x.jpg>&nbsp;</td>
+      </tr>
+    </table></td><td width=500 valign=top>
+    <table align=center cellspacing=0 cellpadding=0 width="498" >
+        <tr> 
+          <td  height="26"  align=center class=ueber>Die Quotes</td>
+        </tr>
+        <tr> 
+          <td colspan=2 class=story2><div align=justify>Ja, wenn man schon so 
+              lange zusammen eine Band f&uuml;hrt, dann ergeben sich auch immer 
+              wieder Situation des Spa&szlig;es, vor allem w&auml;hrend der gemeinsamen 
+              Bandtreffen. Und damit ihr jetzt auch was davon habt, haben wir 
+              (vor allem Gadd Ridd) mal die lustigsten Szenen aus 2 Jahre 40 Frozen 
+              f&uuml;r euch gesammelt: 
+              <p><strong># Sliff klingelt an der Haust&uuml;r von Gadd Ridd. Gadd Ridd kommt 
+                erst nach einer Weile.</strong><br><br>
+                <em><strong>Gadd Ridd</strong></em>: &quot;Sorry, ich hab dich nicht geh&ouml;rt. Ich habe 
+                sehr laut Lionel Richie geh&ouml;rt.&quot; 
+              <hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;">
+              <p><strong><em># B42 ziemlich ver&auml;rgert:</em></strong> &quot;Gadd Ridd, 
+                du gehst mir so auf die Fresse!&quot;<br>
+                <em><strong>Gadd Ridd</strong></em>: &quot;Man muss auch eine professionelle Nachl&auml;ssigkeit 
+                an den Tag legen.&quot;
+              <hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;">
+              <p><strong># Gadd Ridd und Sliff schreiben grade am Chorus.</strong><br><br>
+                <em><strong>Gadd Ridd:</strong></em>&quot;Wir nehmen deine Idee 
+                nur unter einer Bedingung...&quot;<br>
+                <em><strong>Sliff</strong></em>: &quot;Welche?&quot;<br>
+                <em><strong>Gadd Ridd</strong></em>: &quot;Ich bekomme trotzdem 
+                die Credits!&quot; 
+              <hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+               <strong># Die Band h&ouml;rt sich ihren neuen Song an. Es kommt 
+                B42's Part...</strong><br>
+                <br>
+                <em><strong>B42 (nach jeder Zeile)</strong></em>: &quot;Das ist 
+                geil. Das war geil, oder?&quot;<br>
+                <em><strong>Sliff</strong></em>: &quot;Ja, alles von dir ist geil.&quot;
+                <br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br># <em><strong>Gadd Ridd</strong></em>: &quot;Das Schicksal sucht 
+                stets den Weg des gr&ouml;&szlig;ten Spa&szlig;es!&quot;<br><br>
+              <hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;">
+              <br>
+                # <strong>B42s Basic-&quot;Freestyles&quot; f&uuml;r jede Gelegenheit:</strong><br>
+                <br>
+                <em><strong>Freestyle 1 (First-Freestyle)</strong></em>: &quot;Ich 
+                muss dich dissen, denn ich finde dich beschissen, denn du kannst 
+                mich nicht missen...&quot;<br>
+                <em><strong>Freestyle 2 (Ghetto-Freestyle)</strong></em>: &quot;Wir 
+                kommen aus Lobeda und machen euch fertig...&quot;<br>
+                <em><strong>Freestyle 3 (George Bush-Freestyle)</strong></em>: 
+                &quot;Fucka uppa bukka..<br>
+                <em><strong>Freestyle 4</strong></em>: &quot;B42 is inda house. 
+                Wo sind die Chicks hin?&quot;<br>
+                <em><strong>Freestyle 5 (ganz neu)</strong></em>: &quot;Ich bin 
+                so geil...&quot; kombiniert mit &quot;Doppelzeilen-rap, ich bin 
+                zu schnell f&uuml;r dich.&quot; 
+                <br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                # <em><strong>Gadd Ridd</strong></em>: &quot;Sliff zeigte heute 
+                mal wieder schwule Aktivit&auml;ten&quot;.<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                # <strong>Gadd Ridd hat ein paar neue Beats gemacht.</strong><br>
+                <br>
+                <em><strong>Sliff</strong></em>: &quot;Die sind zu soft, w&auml;ren 
+                was f&uuml;r D-Rags Love-Songs Album.&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <em><strong># Sliff</strong></em>: &quot;So muss es sein: Zwei, 
+                die rumposen, und einer, der die ganze Arbeit macht.&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong># B42 analysiert einen Part von Sliff.</strong><br>
+                <br>
+                <em><strong>B42</strong></em>: &quot;Must-Rhyme, Must-Rhyme, wieder 
+                ein Must-Rhyme, Must-Rhyme, ...&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong># B42 nach dem Song &quot;B42, Sliff und Gadd Ridd&quot;</strong><br>
+                <br>
+                <em><strong>B42</strong></em>: &quot;Ich bin ja wohl der Einzige, 
+                dessen Texte Inhalt haben.&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong># Lange nach dem Jena-Song... </strong><br>
+                <br>
+                <em><strong>Gadd Ridd (zum wiederholten Male)</strong></em>: &quot;Kann 
+                ich nochmal den Chorus aufnehmen?&quot;<br>
+                <em><strong>B42</strong></em>: &quot;Du kriegst von mir gleich 
+                so ein paar in die Fresse!&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong># Nachdem die anderen Bandmitglieder mal wieder B42s neuen 
+                Beat abgelehnt haben...</strong><br>
+                <br>
+                <em><strong>B42</strong></em>: &quot;Dann kommt er auf mein Soloalbum. 
+                Ist sowieso viel zu gut f&uuml;r euch.&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong># Gadd Ridd allgemein &uuml;ber die Art der Texte:</strong><br>
+                <br>
+                <em><strong>Gadd Ridd</strong></em>: &quot;Es ist zwar sinnlos, 
+                aber ich liebe den Shit.&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong># Die Band hat wieder mal B42s Beats abgelehnt. B42 ist 
+                sauer:</strong><br>
+                <br>
+                <strong><em>B42</em></strong>: &quot;Ich schmei&szlig;' euch beide 
+                aus der Band!&quot;<br>
+                <strong><em>Gadd Ridd</em></strong> : &quot;Mit wem willst du 
+                dann weitermachen?&quot;.<br>
+                <strong><em>B42</em></strong>: &quot;Na mit D-Rag!&quot;<br>
+                Allgemeines Gel&auml;chter. B42 muss auch lachen und alle haben 
+                sich anschlie&szlig;end wieder lieb.<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong># Die Band einstimmig nach dem Weihnachtssong:</strong><br>
+                <br>
+                &quot;Wenn D- Rag das h&ouml;rt wird er heulen.&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong># B42 hat ein bisschen am Abi-Song rumexperimentiert.</strong>..<br>
+                <br>
+                <em><strong>B42</strong></em>: &quot;Keiner von uns erz&auml;hlt 
+                das mit dem R&uuml;ckw&auml;rtslaufen des Abi-Songs weiter. Das 
+                bleibt unser Geheimnis.&quot;<br>
+                Wenige Tage danach auf Bennis Party vor versammelter Menge am 
+                Note-book...<br>
+                <em><strong>B42</strong></em>: &quot;Passt mal auf, was passiert, 
+                wenn ich den 
+                Abi-Song r&uuml;ckw&auml;rts laufen lasse.&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                # <strong>Bei der Namenswahl...</strong><br>
+                <br>
+                <em><strong>Lew</strong></em>: &quot;Ab sofort hei&szlig;' ich 
+                Sliff!&quot;<br>
+                <em><strong>Gadd Ridd</strong></em>: &quot;Wie Sliff? Bist du 
+                ein Slipsniffler, oder was? Ab sofort nenn' ich dich Slipsniffler 
+                Sliff!&quot;<br>
+                <em><strong>Sliff</strong></em>: &quot;Wie kommst du auf Slipsniffler?&quot;<br>
+                <em><strong>Gadd Ridd</strong></em>: &quot;Na, weil du gerne an 
+                Slips rumschn&uuml;ffelst.&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong># Gadd Ridd zu Sliff:</strong><br>
+                <br>
+                <em><strong>Gadd Ridd</strong></em>: &quot;Eins sag' ich dir. 
+                Irgendwann sind wir so ber&uuml;hmt, dass, wenn wir deinen ersten 
+                (ber&uuml;chtigten) Minirap als Single ver&ouml;ffentlichen, er 
+                sofort
+                auf Platz 1 der Charts landet.&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong># B42 und Gadd Ridd &uuml;ber Sliffs Part:</strong><br>
+                <br>
+                <em><strong>Gadd Ridd und B42</strong></em>: &quot;Sliff, du hast 
+                das Thema verfehlt. Das ist 100% Battletext.&quot;<br>
+                <em><strong>Sliff</strong></em>: &quot;Ja, ich wei&szlig;. Aber 
+                ich war so w&uuml;tend.&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                # <strong>Gadd Ridd zu DJ Christschen.</strong><br>
+                <br>
+                <strong><em>Gadd Ridd</em></strong>: &quot;Hey cool man, du bist 
+                DJ Christschen!&quot;<br>
+                <strong><em>Christian</em></strong>: &quot;Was soll die Verhunzung 
+                meines Vornamens?&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong># Nach &quot;Komm zur&uuml;ck&quot;:</strong><br>
+                <br>
+                <em><strong>Sliff</strong></em>: &quot;Was h&auml;lst du von der 
+                Stelle, wo wir dich dumm machen?&quot;<br>
+                <em><strong>Gadd Ridd</strong></em>: &quot;Wo macht ihr mich denn 
+                bitte dumm?&quot;<br>
+                <em><strong>Sliff</strong></em>:&quot;Wo wir dich zitieren.&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong># B42</strong>: &quot;Ich bin bei jedem hei&szlig;en Chick 
+                beliebt.&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong># Sliff ist besorgt &uuml;ber die Freundschaft zwischen 
+                seinem Bruder Gregory und B42:</strong><br>
+                <br>
+                <strong><em>Sliff:</em></strong> &quot;Ich seh' es noch kommen: 
+                40 Frozen feat. G-Loser&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong># Gadd Ridd guckt sich in B42s Beatordner um.</strong><br>
+                <br>
+                <em><strong>Gadd Ridd</strong></em>: &quot;Du bist wirklich kreativ 
+                in der Bennenung deiner Beats: geil1.wav, geil2.wav, geil3.wav, 
+                geil4.wav, geil5.wav, ...&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong><em># Gadd Ridd</em></strong>: &quot;D-Rag ist kein Gangster. 
+                Kein Gangster w&uuml;rde sagen: 'Komm steig ein in D-Rags Stra&szlig;enbahn.' 
+                &quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong># B42 und Gadd Ridd treffen sich nach langer Zeit beim 
+                Basketball, nachdem Gadd Ridd mal wieder aus Dresden zu Hause 
+                ist...</strong><br>
+                <br>
+                <em><strong>B42</strong></em>: &quot;Sieht man, dass ich in letzter 
+                Zeit muskul&ouml;ser geworden bin?&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong><em># Peter</em></strong>: &quot;Mit was erpresst ihr 
+                eigentlich D-Rag, dass er bei euch mitmacht?&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong># Im Studio:</strong><br>
+                <br>
+                <strong><em>Gadd Ridd</em></strong>: &quot;B42, lass uns Herr 
+                der Ringe Extended Version angucken.&quot; <br>
+<strong><em>B42</em></strong>: 
+                &quot;Bist du verr&uuml;ckt? Das sind 12 Stunden.&quot;<br>
+                <strong><em>Gadd Ridd</em></strong>: &quot;Sliff will aber jetzt 
+                seinen Part aufnehmen.&quot;<br>
+                <strong><em>B42</em></strong>: &quot;OK, alles Klar.&quot; <br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>Jetzt ein paar neuere Quotes:<br><br>
+              <strong># Gadd Ridd versucht gerade einen neuen Song zu mixen.</strong><br><br>
+                <strong><em>Sliff</em></strong>: &quot;Du bist der schlechteste 
+                Producer aller Zeiten.&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <em><strong># Sliff</strong></em>: &quot;D-Rag will demn&auml;chst 
+                einen Reggae-Song aufnehmen. Ich hab ihm schonein paar Beats geschickt. 
+                Achja, er nennt sich ab jetzt nur noch D-Reggae. Dann hatten wir 
+                uns letzte Woche auch gebattelt. Ich hab ihn einfach nur geburnt. 
+                Selbst schuld, wenn man solange nicht trainiert.&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+				<strong># Bei der Aufnahme des Outros zum Album.</strong><br><br>
+                <em><strong>Sliff</strong></em>: &quot;H&auml;, was hat Robbie 
+                Williams bitte mit Take That zu tun?&quot;<br>
+                Gadd Ridd und B42 lachen sich tot.<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+				<strong># Sliff und Gadd Ridd schreiben gerade am Chorus. B42 langweilt 
+                sich.</strong><br><br>
+                <em><strong>B42</strong></em>: &quot;Wie lange dauert das denn 
+                noch?&quot;<br>
+                <em><strong>Gadd Ridd</strong></em>: &quot;Halbe Stunde vielleicht.&quot;<br>
+                <em><strong>B42</strong></em>: &quot;Gut dann nehme ich in der 
+                Zwischenzeit mal schnell ein Freestyle-Album auf.&quot;<br>
+                Was dann auch passierte. Es wurde aber alles gel&ouml;scht, obwohl 
+                ein paar wirklich gute Freestyles dabei waren.<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong><em># Sliff: </em></strong>&quot;B42 besucht gerade einen 
+                Kurs &uuml;ber Bifurkationstheorie, weil es wie B-four-two klingt.&quot;
+				<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+                <strong># Gadd Ridd will Daten auf seinen Stick von B42s Computer 
+                laden.</strong><br>
+                <br>
+                <strong><em>Gadd Ridd</em></strong>: &quot;Wo soll ich ihn reinstecken? 
+                Ist er drin? Kann ich ihn herausziehen?&quot;<br>
+                B42 lacht sich dar&uuml;ber kaputt.<br>
+                <strong><em>B42</em></strong>: &quot;Das machen wir als Skit!&quot;<br>
+                <strong><em>Gadd Ridd</em></strong>:&quot; Nein!!&quot;<br>
+                <strong><em>B42</em></strong>: &quot;Och komm.&quot;<br>
+                <strong><em>Gadd Radd</em></strong>:&quot;Nein. Das ist selbst unter meinem Niveau.&quot;<br><br><hr style="width:90%; color:blue; background-color:blue; height:2px;
+   text-align:center; border: 0px;"><br>
+				<strong># Sliff nimmt gerade den Chorus f&uuml;r das Intro auf.</strong><br><br>
+                <strong><em>B42</em></strong>: &quot;O shit, und mit dem habe 
+                ich 11 Songs aufgenommen...&quot; </div>
+            </td>
+        </tr>
+        <tr> 
+          <td width="498"  height="26"  align=center class=ueber>Das Interview</td>
+        </tr></tr>
+        <tr> 
+          <td colspan=2 class=story2> <div align=justify><strong>Hey Leute, was 
+              geht? Ihr seid ja nun mehr als 1,5 Jahre existent, eure Seite gibt 
+              es seit mehr als einem halben Jahr. Zeit, euch mal ein paar Fragen 
+              zur Vergangenheit, Gegenwart und Zukunft der Band zu stellen. </strong> 
+              <br>
+              <br>
+              <strong><em>Band:</em></strong> Hi Alter, na los, fang schon an!<br>
+              <br>
+              <strong>Das allerwichtigste nat&uuml;rlich die Geschichte, wie ihr 
+              entstanden seid... </strong><br>
+              <br>
+              <em><strong>Sliff [lacht sich einen ab]</strong>: </em>Gerdy (Der 
+              heutige Gadd Ridd, <em>Anm. der Redaktion</em>) hat zum Spa&szlig; gesagt,<em> 
+              "Lass uns ne Rapband gr&uuml;nden"</em>, wir beide haben es ernst genommen 
+              und Gerdy konnte nicht widerstehen. Eigentlich ziemlich sinnlos, 
+              nix mit Drogen und Gangstervergangenheit.<br>
+              <br>
+              <strong>Wie ist euer Name entstanden?</strong><br>
+              <br>
+              Wir hatten am Anfang nur einen Grundsatz: Er sollte besser als "Raptile" 
+              sein. Da hat jemand 40 Frozen (bzw. f&uuml;r die Oldschooler -40&deg; 
+              Frozen) vorgeschlagen und der ist ja wohl besser. Also haben wir 
+              ihn genommen.<br>
+              <br>
+              <strong>Wenn ihr schon nicht aus dem Gangsterviertel kommt, was 
+              ist dann eure Motivation zu rappen?</strong><br>
+              <br>
+              Das kann man ganz einfach zusammenfassen: Chicks, Geld und Macht, 
+              und zwar in dieser Reihenfolge. <br>
+              <em><strong>Gadd Ridd [unter Einfluss von ...]:</strong> </em>Die 
+              Macht, das Schicksal zu bestimmen.<br>
+              <br>
+              <strong>Und wie kommt ihr unter solchen Umst&auml;nden auf die Ideen 
+              f&uuml;r eure Texte?</strong><br>
+              <br>
+              Meistens durch Cannabis. <br>
+              <strong><em>Stimme aus dem Off:</em></strong> Auch wenn wir nicht 
+              kiffen. Wir schauen nur die Pflanzen an. Ehrlich. <br>
+              <br>
+              <strong>Ihr seid ja bekannt f&uuml;r hohe Ziele, die scheinbar unerreichbar 
+              sind. Was nehmt ihr euch denn f&uuml;r die n&auml;chsten Jahre vor?</strong> 
+              <ul type="disc">
+                <li> &nbsp;Groupieanzahl in dreistelligen Bereich bringen (nur 
+                  weibliche z&auml;hlen) </li>
+                <li> &nbsp;Aus der Band austreten</li>
+                <li> &nbsp;D-Rag rausschmei&szlig;en, autark von seinem Marketingeffekt 
+                  werden</li>
+              </ul>
+              Die Zuordnung zu den Bandmitgliedern d&uuml;rft ihr selbst treffen.<br>
+              <br>
+              <strong>Das klingt ja sehr abgedreht. Aber so kennt man euch ja. 
+              Noch abgedrehter dagegen ist das Ger&uuml;cht, dass ihr bald ein 
+              Album herausbringen wollt?! </strong><br>
+              <br>
+              Im Gegensatz zum Hoene&szlig;-Uli brauchen wir solche Dinge nicht 
+              geheim zu halten. Ja, es wird ein Album geben. Es gibt zwar noch 
+              kein Release-Date, aber zum Ende des Jahres kann man damit rechnen.<br>
+              Es wird 1 Euro kosten. Wir glauben, dass es sich trotzdem keiner 
+              kaufen wird.<br>
+              <em><strong>Bushido:</strong></em> Ich kauf mir euer Album 2-mal, 
+              dann habt ihr 2 Alben verkauft, ihr Opfer, 2 St&uuml;ck. Zwei - 
+              nicht mehr und nicht weniger, okay?<br>
+              <strong><em>Sliff:</em></strong> Ich kauf' mir aber auch eins!<br>
+              <strong><em>Bushido:</em></strong> Ich mach' Klick-Klack-Balla-Balla-Klick-Klack-Boooooom... 
+              <br>
+              <strong><br>
+              Ihr bringt ein Album heraus, aber gleichzeitig mutma&szlig;en einige 
+              Fans &uuml;ber eine Trennung. B42 hat einen Solotrack herausgebracht, 
+              Gadd Ridd wohnt nun in Dresden w&auml;hrend des Semesters. Ist das 
+              der Anfang vom Ende?</strong><br>
+              <br>
+              <em><strong>Gadd Ridd:</strong></em> Es sieht schlecht aus...<br>
+              <strong><em>B42:</em></strong> Ach Quatsch, wir haben zwar weniger 
+              Zeit, aber daf&uuml;r sind wir viel produktiver als fr&uuml;her. 
+              Dass es da Solotracks gibt, ist doch klar. Wir m&uuml;ssen uns auch 
+              weiterentwickeln, jeder hat eben seine eigenen Vorstellungen.<br>
+              <em><strong>Sliff: </strong></em>Laber nich so nen Journalistenschei&szlig;, 
+              B42. Mit einer kleinen Spende...<br>
+              <strong><em><br>
+              </em>Da fragen sich die Fans nat&uuml;rlich auch: Wird es mal wieder 
+              nen Feature von D-Rag geben?</strong><br>
+              <br>
+              <em><strong>Sliff:</strong></em> Mit wem?<br>
+              <em><strong>Gadd Ridd:</strong></em> <em>*Zensiert, er wollte sp&auml;ter 
+              nicht mehr dazu stehen*</em><br>
+              <em><strong>B42:</strong></em> D-Rag hat gesagt, wenn er ohne uns 
+              erfolgreicher ist, kommt er nie wieder zur&uuml;ck ... Gestern wollte 
+              er wieder was mit uns machen.<br>
+              <br>
+              <strong>Kommen wir zu einer Frage, die alle weiblichen Fans nat&uuml;rlich 
+              brennend interessiert: Was haltet ihr von Groupies?</strong><br>
+              <br>
+              <em><strong> Anonym:</strong></em> Solange meine Freundin nichts 
+              dagegen hat...<br>
+              <em><strong>Gadd Ridd:</strong></em> Du hast doch gar keine Freundin, 
+              B42!<br>
+              <em><strong>Anonym:</strong></em> Du Idiot!!! <em> [pr&uuml;geln 
+              sich]</em><br>
+              <strong><em>Sliff:</em></strong> Ey, Gadd Ridd, B42, ihr m&uuml;sst 
+              viel cooler bleiben. <em>[paff paff]</em> <br>
+              <strong><em>Stimme vor der T&uuml;r:</em></strong> Aufmachen, Polizei, 
+              gibt es hier jemanden, der Slips sniffelt?<br>
+              <strong><em>Gadd Ridd:</em></strong> Der nimmt gar nix, oder Sliff?<br>
+              <strong><em>Sliff:</em></strong> Doch nat&uuml;rlich. Ich steh dazu.<br>
+              <em><strong>Bushido:</strong></em> Wenn du wirklich ziehst, wieviel 
+              kostet 1 Gramm Koks?<br>
+              <strong><br>
+              Von welchen Musikern habt ihr eigentlich am meisten profitiert, 
+              anders gefragt, wer sind eure Vorbilder?</strong><br>
+              <br>
+              <em><strong>Sliff:</strong></em> Oli P. !!!<br>
+              <em><strong>B42:</strong></em> MC Hustler, Dark B.<br>
+              <em><strong>Gadd Ridd:</strong></em> Nektarios, Zlatko, J&uuml;rgen, 
+              Gracia und Overground, so ungef&auml;hr.<br>
+              <br>
+              <strong>Und wer ist bei euch in der Band der Chef, der Leads&auml;nger?</strong><br>
+              <br>
+              <em><strong>Sliff:</strong></em> Sliff.<br>
+              <em><strong>Gadd Ridd:</strong></em> Gadd Ridd.<br>
+              <em><strong>B42:</strong></em> B42.<br>
+              <br>
+              <strong>Wie nicht anders zu erwarten... Zum Schluss noch eine eher 
+              allgemeine, gesellschaftspolitische Frage. Ganz Deutschland bewegt 
+              der Ausgang der Bundestagswahl. Welcher Partei gebt ihr eure Stimme?</strong><br>
+              <br>
+              <em><strong>Alle 3 zusammen:</strong></em> RRRRRRrrrrrRRRR, noch 
+              Fragen?<br>
+              <br>
+              <strong>Nein, keine mehr. Jungs, ich danke euch f&uuml;r das Gespr&auml;ch, 
+              war sehr aufschlussreich und interessant. An die Leser kann ich 
+              nur den Tipp geben: Ladet herunter! <br>
+              Ansonsten muss ich weg, Tokio Hotel wartet. </strong></div>
+            <br> <div class="bea">Das Gespr&auml;ch f&uuml;hrte Detlev Erkusen.</div></div> 
+          </td>
+        </tr>
+        <tr> 
+          <td height="12"> <div align=right class="bea">bearbeitet am: 01.12.2011&nbsp</div></td>
+        </tr>
+      </table></td>
+  <td valign=top><table border=0 align=center cellpadding=0 cellspacing=0 bgcolor=000000 valign=bottom>
+      <tr> 
+        <td class="trennlinie" ></td>
+      </tr>
+      <tr> 
+        <td width=172 height="32"valign=top background=x1.jpg>&nbsp;</td>
+      <tr> 
+        <td class="trennlinie" ></td>
+      </tr>
+      <tr><td width=180 height="47"> <a href="quiz.htm"
+   onMouseOver="Bildwechsel(5,Highlight10)"
+   onMouseOut="Bildwechsel(5,Normal10)"><img src="das quiz.jpg"
+   width="160"  height="50" border="0" alt="interview"></a></td>
+        </tr>
+		<tr><td width=180 height="47"> <a href="was.htm"
+   onMouseOver="Bildwechsel(6,Highlight4)"
+   onMouseOut="Bildwechsel(6,Normal4)"><img src="interview.jpg"
+   width="160"  height="50" border="0" alt="interview"></a></td>
+        </tr>
+        <tr> 
+          <td width=180 height="42"> <a href="photos.htm"
+   onMouseOver="Bildwechsel(7,Highlight5)"
+   onMouseOut="Bildwechsel(7,Normal5)"><img src="photos.jpg"
+   width="160"  height="50" border="0" alt="photos"></a></td>
+        </tr>
+        <td width=180 height="42"> <a href="http://201885.multiguestbook.com"
+   onMouseOver="Bildwechsel(8,Highlight8)"
+   onMouseOut="Bildwechsel(8,Normal8)"><img src="gaestebuch.jpg"
+   width="160"  height="50" border="0" alt="gaestebuch"></a></td>
+        </tr>
+		<tr> 
+          <td width=180 height="42"> <a href="autor.htm"
+   onMouseOver="Bildwechsel(9,Highlight9)"
+   onMouseOut="Bildwechsel(9,Normal9)"><img src="impressum.jpg"
+   width="160"  height="50" border="0" alt="impressum"></a></td>
+        </tr>
+		 
+      <tr> 
+        <td width=172 height="32"valign=top background=x1.jpg>&nbsp;</td>
+      <tr> </table>
+     
+  </tr>
+</table>
+</BODY>
+</HTML>
